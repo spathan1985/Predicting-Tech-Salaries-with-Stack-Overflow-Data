@@ -1,0 +1,36 @@
+# --- Core Python Utilities ---
+numpy
+pandas
+
+# --- Data Visualization ---
+matplotlib
+seaborn
+plotly
+
+# --- Machine Learning & Modeling ---
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# --- Statistics & Feature Engineering ---
+scipy
+statsmodels
+category_encoders
+imbalanced-learn
+
+# --- Model Interpretation ---
+shap
+lime
+
+# --- Data Handling & Workflow ---
+jupyter
+notebook
+ipykernel
+tqdm
+joblib
+
+# --- Optional but useful ---
+pandas-profiling
+mlxtend
+optuna        # for hyperparameter optimization
